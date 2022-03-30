@@ -1,2 +1,2 @@
-yaml https://raw.githubusercontent.com/Greenroom-Robotics/rosdistro/main/rosdep/base.yaml?token=GHSAT0AAAAAABRC5C7TZFOWPDLPF6DDMFIYYSKTJLA
-yaml https://raw.githubusercontent.com/Greenroom-Robotics/rosdistro/main/rosdep/python.yaml?token=GHSAT0AAAAAABRC5C7T7EUYYA7V7MU4BGBAYSKTJZA
+yaml https://raw.githubusercontent.com/Greenroom-Robotics/rosdistro/main/rosdep/base.yaml
+yaml https://raw.githubusercontent.com/Greenroom-Robotics/rosdistro/main/rosdep/python.yaml
