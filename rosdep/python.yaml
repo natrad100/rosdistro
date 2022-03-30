@@ -1,0 +1,7 @@
+python3-haversine-pip:
+  debian:
+    pip:
+      packages: [haversine]
+  ubuntu:
+    pip:
+      packages: [haversine]
