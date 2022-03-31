@@ -1,0 +1,4 @@
+placeholder:
+  debian:
+    pip:
+      packages: [placeholder]
