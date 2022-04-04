@@ -19,6 +19,9 @@ python3-av-pip: # only available in apt in 22.04
   ubuntu:
     pip:
       packages: [av]
+python3-pytest-sugar:
+  debian: [python3-pytest-sugar]
+  ubuntu: [python3-pytest-sugar]
 python3-pytest-randomly-pip:
   debian:
     pip:
