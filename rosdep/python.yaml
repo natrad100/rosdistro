@@ -19,3 +19,10 @@ python3-av-pip: # only available in apt in 22.04
   ubuntu:
     pip:
       packages: [av]
+python3-pytest-randomly-pip:
+  debian:
+    pip:
+      packages: [pytest-randomly]
+  ubuntu:
+    pip:
+      packages: [pytest-randomly]
