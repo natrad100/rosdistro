@@ -12,6 +12,13 @@ python3-aiortc-pip: # only available in apt in 22.04
   ubuntu:
     pip:
       packages: [aiortc]
+python3-aiohttp-pip:
+  debian:
+    pip:
+      packages: [aiohttp]
+  ubuntu:
+    pip:
+      packages: [aiohttp]
 python3-av-pip: # only available in apt in 22.04
   debian:
     pip:
