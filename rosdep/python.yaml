@@ -50,3 +50,10 @@ python3-pytest-randomly-pip:
   ubuntu:
     pip:
       packages: [pytest-randomly]
+python3-pyping-pip:
+  debian:
+    pip:
+      packages: [pyping]
+  ubuntu:
+    pip:
+      packages: [pyping]
