@@ -19,6 +19,13 @@ python3-aiohttp-pip:
   ubuntu:
     pip:
       packages: [aiohttp]
+python3-aiohttp-cors-pip:
+  debian:
+    pip:
+      packages: [aiohttp-cors]
+  ubuntu:
+    pip:
+      packages: [aiohttp-cors]
 python3-av-pip: # only available in apt in 22.04
   debian:
     pip:
