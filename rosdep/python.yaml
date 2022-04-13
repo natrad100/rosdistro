@@ -5,6 +5,13 @@ python3-haversine-pip:
   ubuntu:
     pip:
       packages: [haversine]
+python3-ipdb-pip:
+  debian:
+    pip:
+      packages: [ipdb]
+  ubuntu:
+    pip:
+      packages: [ipdb]
 python3-aiortc-pip: # only available in apt in 22.04
   debian:
     pip:
