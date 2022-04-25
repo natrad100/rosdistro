@@ -2,3 +2,6 @@ placeholder:
   debian:
     pip:
       packages: [placeholder]
+usb-utils:
+  debian: [usbutils]
+  ubuntu: [usbutils]
