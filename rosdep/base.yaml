@@ -1,7 +1,9 @@
-placeholder:
-  debian:
-    pip:
-      packages: [placeholder]
 usb-utils:
   debian: [usbutils]
   ubuntu: [usbutils]
+libopus-dev:
+  debian: [libopus-dev]
+  ubuntu: [libopus-dev]
+libvpx-dev:
+  debian: [libvpx-dev]
+  ubuntu: [libvpx-dev]
