@@ -15,10 +15,10 @@ python3-ipdb-pip:
 python3-aiortc-pip: # only available in apt in 22.04
   debian:
     pip:
-      packages: [https://github.com/Greenroom-Robotics/aiortc/archive/b797f155df168791ff626c28d72f40389fbd492f.zip]
+      packages: [https://github.com/Greenroom-Robotics/aiortc/archive/1a4dee4f9eb076e0d5e6d19164b7e2980409cb48.zip]
   ubuntu:
     pip:
-      packages: [https://github.com/Greenroom-Robotics/aiortc/archive/b797f155df168791ff626c28d72f40389fbd492f.zip]
+      packages: [https://github.com/Greenroom-Robotics/aiortc/archive/1a4dee4f9eb076e0d5e6d19164b7e2980409cb48.zip]
 python3-aiohttp-pip:
   debian:
     pip:
