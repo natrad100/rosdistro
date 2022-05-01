@@ -26,6 +26,13 @@ python3-aiohttp-pip:
   ubuntu:
     pip:
       packages: [aiohttp]
+python3-tornado-pip:
+  debian:
+    pip:
+      packages: [tornado==6.1]
+  ubuntu:
+    pip:
+      packages: [tornado==6.1]
 python3-aiohttp-cors-pip:
   debian:
     pip:
