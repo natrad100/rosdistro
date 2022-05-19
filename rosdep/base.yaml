@@ -7,3 +7,6 @@ libopus-dev:
 libvpx-dev:
   debian: [libvpx-dev]
   ubuntu: [libvpx-dev]
+package_publish_test:
+  debian: [package_publish_test]
+  ubuntu: [package_publish_test]
