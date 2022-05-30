@@ -29,10 +29,10 @@ python3-aiohttp-pip:
 python3-tornado-pip:
   debian:
     pip:
-      packages: [tornado==6.1]
+      packages: [tornado]
   ubuntu:
     pip:
-      packages: [tornado==6.1]
+      packages: [tornado]
 python3-aiohttp-cors-pip:
   debian:
     pip:
@@ -47,6 +47,13 @@ python3-av-pip: # only available in apt in 22.04
   ubuntu:
     pip:
       packages: [av]
+python3-pre-commit-pip:
+  debian:
+    pip:
+      packages: ['pre-commit']
+  ubuntu:
+    pip:
+      packages: ['pre-commit']
 python3-pytest-sugar:
   debian: [python3-pytest-sugar]
   ubuntu: [python3-pytest-sugar]
@@ -71,3 +78,10 @@ python3-pyping-pip:
   ubuntu:
     pip:
       packages: [pyping]
+python3-watchdog-pip:
+  debian:
+    pip:
+      packages: ['watchdog[watchmedo]']
+  ubuntu:
+    pip:
+      packages: ['watchdog[watchmedo]']
